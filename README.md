@@ -53,6 +53,8 @@ module boolean_function_minimization(a, b, c, d, w, x, y, z, f1, f2);
  assign f2 = x6 | x7 | x8 | x9 | x10;
  endmodule
 
+![Screenshot (63)](https://github.com/user-attachments/assets/2209475c-ef3d-4b57-8a91-188e0d1f704f)
+
 
 Developed by: NANDA KISHOR S P
 RegisterNumber: 24011485
