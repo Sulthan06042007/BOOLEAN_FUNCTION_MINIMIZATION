@@ -71,8 +71,8 @@ module boolean_function_minimization(a, b, c, d, w, x, y, z, f1, f2);
 ```
 
 
-Developed by: NANDA KISHOR S P
-RegisterNumber: 24011485
+Developed by: A Mohamed Sulthan
+RegisterNumber: 212223230125
 */
 
 
